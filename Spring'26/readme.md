@@ -4,14 +4,12 @@ Welcome to **CS4084: Introduction to Quantum Computing**!
 Hey there, quantum explorer 👋
 
 This repository hosts course materials for **CS4084**, intended for current students as well as anyone with a genuine interest in quantum computing.
----
-## 📘 About This Repository
+
 
 This repository is organized **by semester**. Each semester folder contains its own lectures, assignments, labs, and resources corresponding to that specific offering of the course.
 
 The course materials are updated regularly during the semester, so please check back often for new content.
 
----
 
 ## 🚧 Course Status
 
